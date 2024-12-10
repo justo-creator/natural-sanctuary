@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "url": "./img/animal1.png",
+        "description": "A beautiful giraffe with a big heart."
+       
+    },
+
+    {
+        "id": 2,
+        "url": "./img/animal2.png",
+        "description": "A group of elephants enjoying the sun."
+    },
+
+    {
+        "id": 3,
+        "url": "./img/animal3.png",
+        "description": "A red panda enjoying its forest."
+    },
+
+    {
+        "id": 4,
+        "url": "./img/animal4.png",
+        "description": "A white tiger looking at the sky."
+    },
+
+    {
+        "id": 5,
+        "url": "./img/animal5.png",
+        "description": "A group of lions playing in the snow."
+    },
+
+    {
+        "id": 6,
+        "url": "./img/animal6.png",
+        "description": "A group of giraffes playing in the grass."
+    },
+
+    {
+        "id": 7,
+        "url": "./img/animal7.png",
+        "description": "A small lion looking at the sun."
+    },
+
+    {
+        "id": 8,
+        "url": "./img/animal8.png",
+        "description": "A group of zebras enjoying the sun."
+    },
+
+    {
+        "id": 9,
+        "url": "./img/animal9.png",
+        "description": "A group of monkeys playing in the grass."
+    },
+
+    {
+        "id": 11,
+        "url": "./img/animal11.png",
+        "description": "A group of giraffes playing in the grass."
+    },
+
+    {
+        "id": 12,
+        "url": "./img/animal12.png",
+        "description": "A group of elephants playing in the forest."
+    }
+
+
+]
